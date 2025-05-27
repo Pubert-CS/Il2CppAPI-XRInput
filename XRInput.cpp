@@ -1,6 +1,5 @@
 #pragma once
 #include <XRInput.hpp>
-#include <UnityResolve.hpp>
 #include <string>
 #include "../Engine/Includes.hpp"
 
